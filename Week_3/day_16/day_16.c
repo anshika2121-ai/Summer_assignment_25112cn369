@@ -3,7 +3,7 @@
 #include<stdio.h>
 int main(){
     int n , i , sum = 0;
-    printf("enter the value of n :"); // total count of elements1 to n)
+    printf("enter the value of n :"); // total count of elements 1 to n)
     scanf("%d", &n);
     int arr[n-1];
     printf("enter  %d elements:\n", n-1);
