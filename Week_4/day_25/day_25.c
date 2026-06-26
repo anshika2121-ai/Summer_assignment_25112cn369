@@ -1,4 +1,4 @@
-//merge array
+///merge array
 #include <stdio.h>
 
 void mergeArrays(int arr1[], int n1, int arr2[], int n2, int arr3[]) {

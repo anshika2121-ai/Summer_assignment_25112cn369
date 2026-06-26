@@ -11,7 +11,7 @@ int main(){
     int len = strlen(str);
 
     for(int i = 0; str[i] != '\0'; i++){
-        if(count[(unsigned char)str[i]]++);
+        if(count[(unsigned char)str[i]]++)
     }
     for(int i =0; str[i] != '\0' ; i++){
         if(count[(unsigned char)str[i]] == 1){
